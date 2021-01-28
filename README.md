@@ -1,3 +1,8 @@
+## the musicplayer build use vue 
+### It can achieve music playback, MV playback, music keyword search and other functions
+
+
+
 # music-vue
 
 ## Project setup
