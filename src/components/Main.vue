@@ -16,13 +16,13 @@
 
     <div class="center">
       <img
-        src="../assets/player_bar.png"
+        src="../static/player_bar.png"
         alt=""
         :class="['player-bar', { play: showRotate }]"
       />
       <img :src="imgUrl" alt="" class="img" />
       <img
-        src="../assets/disc.png"
+        src="../static/disc.png"
         alt=""
         :class="['disc', { rotate: showRotate }]"
       />
