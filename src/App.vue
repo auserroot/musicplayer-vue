@@ -70,7 +70,8 @@ export default {
     playv(videourl) {
       this.videoUrl = videourl;
       this.showVideo = true;
-      this.$refs.audio.stopmusic();
+      // this.$refs.audio.stopmusic();
+      this.Stoprotate(false)
     },
     getmsg(msg) {
       this.msg = msg;

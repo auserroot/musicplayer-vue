@@ -227,6 +227,8 @@ export default {
       font-size: 14px;
       font-weight: 500;
       padding: 5px;
+      position: fixed;
+      background-color: #fff;
     }
     .msgbox {
       width: 100%;
